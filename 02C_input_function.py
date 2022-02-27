@@ -1,0 +1,8 @@
+a=input("Enter Your No.=")
+print(a)
+print(type(a))
+a=int(a) #convert a to an integer(if possible)
+b=input("Enter Your no. ")
+print(b)
+b=int(b)
+print(a+b)
